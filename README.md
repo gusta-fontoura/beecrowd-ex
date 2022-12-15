@@ -1,6 +1,6 @@
 # Exercícios do Beecrowd
 
-Aqui estão uma selação de exercícios de nível básico que utilizei para aprimorar lógica de programação.
+Aqui estão uma seleção de exercícios de nível básico que utilizei para aprimorar lógica de programação.
 
 ## Por que C#?
 
